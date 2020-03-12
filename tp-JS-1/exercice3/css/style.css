@@ -1,0 +1,37 @@
+#container{
+  padding-top: 3em;
+  width: 100vw;
+  margin: 0 auto;
+  border: solid #b68f23ec 1px;
+  background-color: rgb(0, 0, 0);
+}
+
+
+.chronometre{
+    margin: auto ;
+    width: 300px;
+    text-align: center;
+    
+  }
+
+  .tim{
+      margin: auto;
+      width: 300px;
+      border: 1px solid #b68f23ec;
+      padding:5px 0;
+      text-align: center;
+      font-size: 1.5em;
+      font-family: arial;
+      color: #b68f23ec;
+      margin-bottom: 1em;
+      margin-top: 0.5em;
+  }
+ 
+  .buttonEx3{
+    background: #b68f23ec;
+    color: #fff;
+    width: 80px;
+    border-radius: 5px;
+    line-height: 1.5em;
+    border: none;
+  }
